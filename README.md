@@ -26,7 +26,7 @@ The provided dataset encompasses various dimensions of a training institute's op
 ![Visulization](https://github.com/Sadikctg/Project_9_Training_Institute_Sales_Dashboard_Excel/blob/main/images/Training%20Institute%20Sales%20Dashboard.jpg)
 
 
-### Insights from Visulization:
+### Observations from Visulization:
 
 1. **Consultant Sales Revenue:**
    - Mohmed, Rony, and Hany are the top three consultants in terms of sales revenue, each generating over 1.5 billion in revenue.
@@ -82,11 +82,11 @@ The provided dataset encompasses various dimensions of a training institute's op
     - October has the highest number of average calls at 278, indicating higher engagement and potential opportunities for lead conversion.
     - March has the lowest average calls at just 30, suggesting minimal customer interaction and potential challenges in lead generation.
 
-
 ### Conclusion:
+
 The analysis of the provided dataset offers valuable insights into various aspects of the training institute's operations, including consultant performance, advertising effectiveness, course enrollment trends, and revenue generation from different training models. Through meticulous examination of sales data, advertising expenditure, and consultant contributions, stakeholders can gain a deeper understanding of the institute's strengths, weaknesses, and opportunities for growth.
 
-### Suggestions:
+### Recommendations:
 
 1. **Optimize Advertising Strategies:** Allocate resources more effectively by focusing on advertising channels that yield the highest return on investment. Consider reallocating funds from less effective channels to those that demonstrate better performance, such as Television Ads and Google Ads.
 
